@@ -1,4 +1,4 @@
 # StartWith-GitHub
 Trying features of GItHub
 <br>
-Author: Rajat Gupta
+Author: Rajat Gupta(Rajat)
